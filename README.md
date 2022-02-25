@@ -3,9 +3,9 @@ These functions support the creation of slidepacks for common analytical use-cas
 
 ## Suggested workflow
 ```python
-pres = Presentation('filename.pptx')<br>
- _slide2_idx = add_slide(...)<br>
- _slide3_idx = add_slide(...)<
+pres = Presentation('filename.pptx')
+ _slide2_idx = add_slide(...)
+ _slide3_idx = add_slide(...)
  ...
  pres.save('output_file.pptx')
 ```
