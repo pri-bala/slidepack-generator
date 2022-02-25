@@ -256,12 +256,6 @@ def add_slide(
         - Pictures must be empty if there are no placeholders for pictures
         - Pictures must contain no more strings than there are placeholders for pictures.
 
-    See Also:
-    - Wiki, which includes instructions on creating a template, including the necessary slide layouts
-        with placeholders
-        https://github.com/test-and-trace/jbc-shared-libraries/wiki/slidepack_generator
-
-
 
     Example:
         pres = Presentation('filename.pptx')
