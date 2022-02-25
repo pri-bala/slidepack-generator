@@ -1,7 +1,6 @@
 """
 Slidepack Generator Tests
 Pri Balachandran
-26th Jan 2021  
 
 Requires slidepack_gen_test_layouts_20210126.pptx, which contains some 
 slide layouts with known placeholders and structures to test against.
